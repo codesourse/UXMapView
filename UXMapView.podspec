@@ -25,7 +25,7 @@ Pod::Spec.new do |s|
   s.platform     = :ios
 
   s.source       = { 
-	:svn => 'http://well@192.168.1.23:80/svn/svn/modules/UXMapView', 
+	:git =>  'https://github.com/codesourse/UXMapView.git', 
 	:tag => "1.0.0"
   }
 
